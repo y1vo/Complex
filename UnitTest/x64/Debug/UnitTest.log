@@ -1,0 +1,3 @@
+﻿  UnitTest.cpp
+C:\Users\lenovo\source\repos\complex4\UnitTest\UnitTest.cpp(16,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  UnitTest.vcxproj -> C:\Users\lenovo\source\repos\complex4\x64\Debug\UnitTest.dll
